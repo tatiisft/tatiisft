@@ -1,19 +1,17 @@
-##  Bem Vindo(a) ao meu GitHub!
+#  Bem Vindo(a) ao meu GitHub!
 
 😄 Me chamo Tatiana Freitas <br/>
 🎓 Formada em Análise e Desenvolvimento de Sistemas <br/>
 📖 Tenho estudado e focado em projetos Frontend 
 
-----
+---
 ### 💻 Ferramentas em Desenvolvimento:
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ----
 
 ![Tatiana Freitas GitHub stats](https://github-readme-stats.vercel.app/api?username=tatiisft&show_icons=true&theme=dracula)
-
-----
-
+---
 ### 🚀 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tatiana-santos-freitas/)
